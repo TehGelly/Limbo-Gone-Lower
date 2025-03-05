@@ -1,134 +1,257 @@
 # SUBCLASS
-##GroundInfo
-###GroundInfo
+
+## GroundInfo
+
+### GroundInfo
 
 # FUNCTIONS
-##_GLOBAL__sub_I_pClassType
-##AddForce
-##AddForceProxy
-##AddVelocity
-##ApplyAnimPoseToSkeleton
-##ApplyAnimPoseToSkeleton
-##ApplyCollisions
-##ApplyStateTransition
-##ApplyStateTransition(SkeletonState*)
-##Boy
+
+## AddForce
+
+## AddForceProxy
+
+## AddVelocity
+
+## ApplyAnimPoseToSkeleton
+
+## ApplyAnimPoseToSkeleton
+
+## ApplyCollisions
+
+## ApplyStateTransition
+
+## Boy
+
 -Superclass of SkeletonStateNode
 -Initializes a Boy (more info in struct)
-##CallRumbleScript
-##Create
+
+## CallRumbleScript
+
+## Create
+
 -Allocates 0x28c bytes of memory, then calls Boy();
-##DebugAddTransitionComment
-##DropDown
-##DropDown
-##DropDownProxy
-##ExamineDeath
-##ExamineRagdollCollisions
-##FellInWater
-##GetAnimationPose
-##GetAnimationPose
-##GetBoyFlags
-##GetBoyGravity
-##GetClassType
-##GetCustomGravity
-##GetCycleDistance
-##GetCycleDistance
-##GetDeathDetectorID0
-##GetDeathDetectorID1
-##GetDebug
-##GetDebug
-##GetFallInWaterWitness
-##GetFootPos
-##GetFootPosProxy
-##GetForwardDir
-##GetForwardDirProxy
-##GetGenericPropertyData
-##GetGroundAverageVelocity
-##GetGroundInfo
-##GetGroundPlateau
-##GetGroundPlateau
-##GetGroundVelocity
-##GetGroundVolumeProxy
-##GetImageID
-##GetLogicWheelPlateau
-##GetMass
-##GetMassProxy
-##GetNumOutputEvents
-##GetObstructionStatus
-##GetOutputEventName
-##GetOutputEventReceiver
-##GetRightDir
-##GetRumbleScript
-##GetShoulderPos
-##GetShoulderPosProxy
-##GetSkeletonCore
-##GetSkeletonCore
-##GetSkeletonProxy
-##GetStateNameProxy
-##GetStateProxy
-##GetStateTimeElapsedProxy
-##GetThemeID
-##GetUpDir
-##GetUpDirProxy
-##GetUpRot
-##GetVelocity
-##GetVelocityProxy
-##GetWaterProxy
-##GetWheelPos
-##GetWheelPosProxy
-##GotFocus
-##GotFocus
-##Initialize
-##Integrate
-##IsActive
-##IsClimbing
-##IsDead
-##IsDeadProxy
-##IsDebugEnabled
-##Kill
-##KillProxy
-##LostFocus
-##LostFocus
-##RefreshGroundHistory
-##ResetBoyState
-##Restart
-##Revive
-##SetActionToggle
-##SetBoyFlag
-##SetBoyFlagProxy
-##SetBoyFlags
-##SetCustomGravity
-##SetDeathDetectorID0
-##SetDeathDetectorID1
-##SetFallInWaterWitness
-##SetGenericPropertyData
-##SetJumpBanTimeProxy
-##SetMaxSpeedProxy
-##SetOutputEventReceiver
-##SetRumbleScript
-##SetThemeID
-##SetWheelPos
-##SetWheelPos
-##SetWheelPosProxy
-##SetWheelPosVisualUnchangedProxy
-##SpawnStateProxy
-##Start
-##TheBoy
+
+## DebugAddTransitionComment
+
+## DropDown
+
+## DropDown
+
+## DropDownProxy
+
+## ExamineDeath
+
+## ExamineRagdollCollisions
+
+## FellInWater
+
+## GetAnimationPose
+
+## GetAnimationPose
+
+## GetBoyFlags
+
+## GetBoyGravity
+
+## GetClassType
+
+## GetCustomGravity
+
+## GetCycleDistance
+
+## GetCycleDistance
+
+## GetDeathDetectorID0
+
+## GetDeathDetectorID1
+
+## GetDebug
+
+## GetDebug
+
+## GetFallInWaterWitness
+
+## GetFootPos
+
+## GetFootPosProxy
+
+## GetForwardDir
+
+## GetForwardDirProxy
+
+## GetGenericPropertyData
+
+## GetGroundAverageVelocity
+
+## GetGroundInfo
+
+## GetGroundPlateau
+
+## GetGroundPlateau
+
+## GetGroundVelocity
+
+## GetGroundVolumeProxy
+
+## GetImageID
+
+## GetLogicWheelPlateau
+
+## GetMass
+
+## GetMassProxy
+
+## GetNumOutputEvents
+
+## GetObstructionStatus
+
+## GetOutputEventName
+
+## GetOutputEventReceiver
+
+## GetRightDir
+
+## GetRumbleScript
+
+## GetShoulderPos
+
+## GetShoulderPosProxy
+
+## GetSkeletonCore
+
+## GetSkeletonCore
+
+## GetSkeletonProxy
+
+## GetStateNameProxy
+
+## GetStateProxy
+
+## GetStateTimeElapsedProxy
+
+## GetThemeID
+
+## GetUpDir
+
+## GetUpDirProxy
+
+## GetUpRot
+
+## GetVelocity
+
+## GetVelocityProxy
+
+## GetWaterProxy
+
+## GetWheelPos
+
+## GetWheelPosProxy
+
+## GotFocus
+
+## GotFocus
+
+## Initialize
+
+## Integrate
+
+## IsActive
+
+## IsClimbing
+
+## IsDead
+
+## IsDeadProxy
+
+## IsDebugEnabled
+
+## Kill
+
+## KillProxy
+
+## LostFocus
+
+## LostFocus
+
+## RefreshGroundHistory
+
+## ResetBoyState
+
+## Restart
+
+## Revive
+
+## SetActionToggle
+
+## SetBoyFlag
+
+## SetBoyFlagProxy
+
+## SetBoyFlags
+
+## SetCustomGravity
+
+## SetDeathDetectorID0
+
+## SetDeathDetectorID1
+
+## SetFallInWaterWitness
+
+## SetGenericPropertyData
+
+## SetJumpBanTimeProxy
+
+## SetMaxSpeedProxy
+
+## SetOutputEventReceiver
+
+## SetRumbleScript
+
+## SetThemeID
+
+## SetWheelPos
+
+## SetWheelPos
+
+## SetWheelPosProxy
+
+## SetWheelPosVisualUnchangedProxy
+
+## SpawnStateProxy
+
+## Start
+
+## TheBoy
+
 -Singleton version of Boy ("THE" Boy)
-##Update
-##UpdateCache
-##UpdateDebug
-##UpdateGravity
-##UpdatePos
-##UpdateSkeletonState
-##UpdateSkeletonState
-##UpdateWater
-##~Boy
-##~Boy
-##~Boy
-##~Boy
+
+## Update
+
+## UpdateCache
+
+## UpdateDebug
+
+## UpdateGravity
+
+## UpdatePos
+
+## UpdateSkeletonState
+
+## UpdateSkeletonState
+
+## UpdateWater
+
+## ~Boy
+
+## ~Boy
+
+## ~Boy
+
+## ~Boy
+
 
 # STRUCT
+
 struct Boy { /* PlaceHolder Structure */
     struct SkeletonStateNode field0_0x0; //superclass
     dword field1_0x64;
