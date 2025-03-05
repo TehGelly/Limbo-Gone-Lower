@@ -235,6 +235,9 @@
 
 ## UpdatePos
 
+-Retrieves [g_pPhysicsWorld2D+0x140] as "tick_rate"
+-Updates position vector in Boy struct with "position += velocity\*tick_rate"
+
 ## UpdateSkeletonState
 
 ## UpdateSkeletonState
@@ -254,11 +257,9 @@
 
 struct Boy { /* PlaceHolder Structure */  
     struct SkeletonStateNode field0_0x0; //superclass  
-    dword field1_0x64;  
-    dword field2_0x68;  
+    vector2f position;
     dword field3_0x6c;  
-    dword field4_0x70;  
-    dword field5_0x74;  
+    vector2f velocity;
     dword field6_0x78;  
     float field7_0x7c;  
     float field8_0x80;  
@@ -292,16 +293,16 @@ struct Boy { /* PlaceHolder Structure */
     struct ReferentList field36_0x224;  
     struct ReferentList field37_0x230;  
     struct ReferentList field38_0x23c;  
-    word **field39_0x248;  
+    word \*\*field39_0x248;  
     int field40_0x24c;  
-    void *field41_0x250;  
-    void *field42_0x254;  
-    void *field43_0x258;  
-    void *field44_0x25c;  
-    void *field45_0x260;  
-    void *field46_0x264;  
-    void *field47_0x268;  
-    void *field48_0x26c;  
+    void \*field41_0x250;  
+    void \*field42_0x254;  
+    void \*field43_0x258;  
+    void \*field44_0x25c;  
+    void \*field45_0x260;  
+    void \*field46_0x264;  
+    void \*field47_0x268;  
+    void \*field48_0x26c;  
     undefined field49_0x270;  
     undefined field50_0x271;  
     undefined field51_0x272;  
