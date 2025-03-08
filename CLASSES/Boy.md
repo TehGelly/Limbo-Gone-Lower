@@ -163,6 +163,8 @@
 
 ## IsDeadProxy
 
+-Checks whether Boy's state can be cast to a BoyRagdollState and, if so, checks if [state+0xfc]&4 !=0.
+
 ## IsDebugEnabled
 
 ## Kill
@@ -224,6 +226,7 @@
 ## TheBoy
 
 -Singleton version of Boy ("THE" Boy)
+-Does NOT indicate that the pClassType is the Boy - based on empirical evidence, the Boy is at \*(\*(\*(pClassType) + 0x24)) (thanks Tedder!)
 
 ## Update
 
@@ -277,7 +280,7 @@ struct Boy { /* PlaceHolder Structure */
     float field20_0xb0;  
     dword field21_0xb4;  
     struct BoyVisual field22_0xb8; //0x120 bytes as inferred from packing  
-    dword field23_0x1d8;  
+    BoyState\* state; //ragdoll, idle, push, etc.  
     dword field24_0x1dc;  
     dword field25_0x1e0;  
     dword field26_0x1e4;  
