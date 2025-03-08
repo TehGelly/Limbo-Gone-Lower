@@ -1,0 +1,4 @@
+"data/texture/atlas/atlas_blur.png"
+"data/texture/atlas/atlas_norm.png"
+"data/texture/atlas/atlas_blur_industrial.png"
+"data/texture/atlas/atlas_blur_shimmering.png"

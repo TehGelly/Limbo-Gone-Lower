@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+(ru)Achievement could not be awarded because the Storage Device containing the active gamer profile is no longer present, inaccessible or full.
+ACHIEVEMENT_FAILED_TITLE
+(ru)Achievement not awarded
+BACK_BUTTON
+Назад
+BUYONLINE_BUTTON
+Купить по сети...
+CANCEL_BUTTON
+Отмена
+CONFIRM_LOOSE_PROGRESS_MSG
+Все несохраненные достижения будут потеряны. Загрузить?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Подтвердите загрузку
+CONFIRM_OVERWRITE_MSG
+Перезаписать сохраненную игру? Предыдущее сохранение будет потеряно!
+CONFIRM_OVERWRITE_TITLE
+Подтвердить перезапись
+CONTINUE_WITOUT_SAVE_MSG
+Ваши игровые достижения и настройки не будут сохранены.
+CONTINUE_WO_SAVING_BUTTON
+Продолжить без сохранения
+DEVICE_FULL_MSG
+На запоминающем устройстве было недостаточно свободного места.
+DEVICE_FULL_TITLE
+Устройство заполнено
+DEVICE_REMOVED_MSG
+Запоминающее устройство было извлечено. Повторно вставьте и выберите запоминающее устройство или продолжите без сохранения.
+DEVICE_REMOVED_TITLE
+Устройство извлечено
+LICENSE_KEY_ERROR_MSG
+Введенный лицензионный ключ является недействительным.
+LICENSE_KEY_ERROR_TITLE
+Ошибка лицензионного ключа
+LOW_SPACE_MSG
+Недостаточно свободного места на жестком диске. Для создания данных требуется не менее 100 КБ свободного места. Выйдите из игры и освободите достаточно свободного места.
+NO_BUTTON
+Нет
+NO_LIVE_CON_BUTTON
+(ru)Return
+NO_LIVE_CON_CONNECTION_LOST_MSG
+(ru)Your network connection was lost.
+NO_LIVE_CON_DISCONNECTED_MSG
+(ru)You need to be signed into Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+(ru)You are not currently signed in to Xbox LIVE, so your leaderboard score will not be updated.
+NO_LIVE_CON_NO_NETWORK_MSG
+(ru)You must sign in to Xbox LIVE to view the Leaderboards.
+NO_LIVE_CON_TIMEOUT
+(ru)Connection time out. Unable to load the leaderboards at this time.
+NO_LIVE_CON_TITLE
+(ru)No Xbox LIVE Connection
+NO_LIVE_CON_UNAVAILABLE_MSG
+(ru)The Xbox LIVE service is unavailable.
+NO_STORAGE_SELECTED_MSG
+Для сохранения игровых достижений необходимо выбрать запоминающее устройство.
+NO_STORAGE_SELECTED_TITLE
+Запоминающее устройство не выбра
+NO_USER_MSG
+Требуется выполнить вход в профиль игрока.
+NO_USER_TITLE
+Вход в профиль игрока не выполне
+OK_BUTTON

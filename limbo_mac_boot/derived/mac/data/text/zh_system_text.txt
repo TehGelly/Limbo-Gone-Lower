@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+無法授予成就，因為包含已登入玩家設定檔的儲存裝置已不存在、無法存取或空間已滿。
+ACHIEVEMENT_FAILED_TITLE
+成就無法儲存
+BACK_BUTTON
+返回
+BUYONLINE_BUTTON
+線上購買...
+CANCEL_BUTTON
+取消
+CONFIRM_LOOSE_PROGRESS_MSG
+您將會遺失所有未儲存的進度，是否確定要載入？
+CONFIRM_LOOSE_PROGRESS_TITLE
+確認載入遊戲存檔
+CONFIRM_OVERWRITE_MSG
+您是否要覆寫遊戲存檔？之前的遊戲存檔將會遺失！
+CONFIRM_OVERWRITE_TITLE
+確認覆寫遊戲存檔
+CONTINUE_WITOUT_SAVE_MSG
+系統將不會儲存您的遊戲進度與設定。
+CONTINUE_WO_SAVING_BUTTON
+不儲存並繼續進行遊戲
+DEVICE_FULL_MSG
+儲存裝置的可用空間不足。
+DEVICE_FULL_TITLE
+儲存裝置已滿
+DEVICE_REMOVED_MSG
+儲存裝置已遭到移除。請重新連接並選取儲存裝置，或是繼續但不儲存任何遊戲。
+DEVICE_REMOVED_TITLE
+儲存裝置已移除
+LICENSE_KEY_ERROR_MSG
+你輸入的授權金鑰無效。
+LICENSE_KEY_ERROR_TITLE
+授權金鑰錯誤
+LOW_SPACE_MSG
+硬碟的可用空間不足，因此無法建立遊戲存檔，需要至少 100KB 的可用空間才能新增資料。您可以離開遊戲，並且嘗試清出可用空間。是否要離開遊戲？
+NO_BUTTON
+否
+NO_LIVE_CON_BUTTON
+返回
+NO_LIVE_CON_CONNECTION_LOST_MSG
+您的網路連線中斷。
+NO_LIVE_CON_DISCONNECTED_MSG
+您必須登入 Xbox LIVE。
+NO_LIVE_CON_LEADERBOARD_MSG
+您尚未登入 Xbox LIVE，因此無法更新排行榜分數。
+NO_LIVE_CON_NO_NETWORK_MSG
+您必須登入 Xbox LIVE 才能查看排行榜。
+NO_LIVE_CON_TIMEOUT
+連線逾時，無法讀取排行榜。
+NO_LIVE_CON_TITLE
+尚未連線至 Xbox LIVE
+NO_LIVE_CON_UNAVAILABLE_MSG
+無法使用 Xbox LIVE 服務。
+NO_STORAGE_SELECTED_MSG
+您必須選取儲存裝置，才能儲存遊戲進度。
+NO_STORAGE_SELECTED_TITLE
+尚未選取儲存裝置
+NO_USER_MSG
+請登入玩家設定檔。
+NO_USER_TITLE
+尚未登入玩家設定檔
+OK_BUTTON

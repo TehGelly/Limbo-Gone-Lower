@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+Der Erfolg konnte nicht vergeben werden, weil das Speichergerät mit dem aktiven Spielerprofil nicht mehr vorhanden, nicht verfügbar oder voll ist.
+ACHIEVEMENT_FAILED_TITLE
+Erfolg nicht verliehen
+BACK_BUTTON
+Zurück
+BUYONLINE_BUTTON
+Online kaufen ...
+CANCEL_BUTTON
+Abbrechen
+CONFIRM_LOOSE_PROGRESS_MSG
+Sie verlieren alle nicht gespeicherten Fortschritte. Wirklich laden?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Laden bestätigen
+CONFIRM_OVERWRITE_MSG
+Wollen Sie Ihr gespeichertes Spiel wirklich überschreiben? Ihr zuvor gespeichertes Spiel geht dabei verloren!
+CONFIRM_OVERWRITE_TITLE
+Überschreiben bestätigen
+CONTINUE_WITOUT_SAVE_MSG
+Ihre Fortschritte und Einstellungen werden nicht gespeichert.
+CONTINUE_WO_SAVING_BUTTON
+Weiter ohne Speichern
+DEVICE_FULL_MSG
+Auf dem Speichergerät war nicht genügend Platz vorhanden.
+DEVICE_FULL_TITLE
+Gerät voll
+DEVICE_REMOVED_MSG
+Das Speichergerät wurde entfernt. Bitte stecken Sie es erneut ein und wählen Sie nochmals das Gerät aus, oder fahren Sie fort, ohne zu speichern.
+DEVICE_REMOVED_TITLE
+Gerät entfernt
+LICENSE_KEY_ERROR_MSG
+Die von Ihnen eingegebene Lizenznummer ist ungültig.
+LICENSE_KEY_ERROR_TITLE
+Lizenznummerfehler
+LOW_SPACE_MSG
+Es ist unter Umständen nicht genügend Speicherplatz auf der Festplatte vorhanden, um einen Spielstand zu erstellen. Um Daten zu erstellen, sind mindestens 100 KB notwendig. Sie können das Spiel beenden und für den notwendigen Platz sorgen. Jetzt das Spiel beenden?
+NO_BUTTON
+Nein
+NO_LIVE_CON_BUTTON
+Zurück
+NO_LIVE_CON_CONNECTION_LOST_MSG
+Deine Netzwerkverbindung wurde unterbrochen.
+NO_LIVE_CON_DISCONNECTED_MSG
+Sie müssen bei Xbox LIVE angemeldet sein.
+NO_LIVE_CON_LEADERBOARD_MSG
+Sie sind derzeit nicht bei Xbox LIVE angemeldet. Die Punkte in Ihrer Bestenliste werden daher nicht aktualisiert.
+NO_LIVE_CON_NO_NETWORK_MSG
+Du musst dich bei Xbox LIVE anmelden, um die Bestenlisten einzusehen.
+NO_LIVE_CON_TIMEOUT
+Zeitlimit für die Verbindung überschritten. Die Bestenlisten können derzeit nicht gelesen werden.
+NO_LIVE_CON_TITLE
+Keine Xbox LIVE-Verbindung
+NO_LIVE_CON_UNAVAILABLE_MSG
+Der Xbox LIVE-Dienst ist nicht verfügbar.
+NO_STORAGE_SELECTED_MSG
+Es muss ein Speichergerät ausgewählt werden, um den Spielfortschritt speichern zu können.
+NO_STORAGE_SELECTED_TITLE
+Kein Speichergerät ausgewählt
+NO_USER_MSG
+Es muss ein Spielerprofil angemeldet sein.
+NO_USER_TITLE
+Kein Spielerprofil angemeldet
+OK_BUTTON

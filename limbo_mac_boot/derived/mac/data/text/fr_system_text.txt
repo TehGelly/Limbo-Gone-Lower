@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+Le succès n'a pas pu vous être remis car le périphérique de stockage contenant le profil du joueur actif a été retiré, est inaccessible ou saturé.
+ACHIEVEMENT_FAILED_TITLE
+Succès non décerné
+BACK_BUTTON
+Retour
+BUYONLINE_BUTTON
+Acheter en ligne...
+CANCEL_BUTTON
+Annuler
+CONFIRM_LOOSE_PROGRESS_MSG
+Vous allez perdre toute progression non sauvegardée. Voulez-vous vraiment charger ?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Confirmation de chargement
+CONFIRM_OVERWRITE_MSG
+Voulez-vous vraiment écraser la sauvegarde ? Votre sauvegarde précédente sera perdue !
+CONFIRM_OVERWRITE_TITLE
+Confirmation d'écrasement
+CONTINUE_WITOUT_SAVE_MSG
+Votre progression et vos paramètres ne seront pas sauvegardés.
+CONTINUE_WO_SAVING_BUTTON
+Continuer sans sauvegarder
+DEVICE_FULL_MSG
+Espace libre insuffisant sur le périphérique de stockage.
+DEVICE_FULL_TITLE
+Périphérique saturé
+DEVICE_REMOVED_MSG
+Le périphérique de stockage a été retiré. Réinsérez et resélectionnez le périphérique ou continuez sans sauvegarder.
+DEVICE_REMOVED_TITLE
+Périphérique retiré
+LICENSE_KEY_ERROR_MSG
+La clé de licence que vous avez saisie n'est pas valide. 
+LICENSE_KEY_ERROR_TITLE
+Erreur de clé de licence
+LOW_SPACE_MSG
+Il n'y a peut-être pas assez d'espace libre sur le disque dur Xbox 360 pour créer une sauvegarde. Au moins 100 Ko d'espace libre sont nécessaires pour créer une sauvegarde. Vous pouvez quitter le jeu pour libérer de l'espace. Voulez-vous quitter le jeu maintenant ?
+NO_BUTTON
+Non
+NO_LIVE_CON_BUTTON
+Retour
+NO_LIVE_CON_CONNECTION_LOST_MSG
+Votre connexion réseau a été perdue.
+NO_LIVE_CON_DISCONNECTED_MSG
+Vous devez être connecté à Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+Vous n'êtes pas connecté à Xbox LIVE pour le moment. Votre score ne peut donc pas être mis à jour dans les Classements.
+NO_LIVE_CON_NO_NETWORK_MSG
+Vous devez vous connecter à Xbox LIVE pour accéder aux Classements.
+NO_LIVE_CON_TIMEOUT
+Délai de connexion dépassé. Impossible de charger les classements pour l'instant.
+NO_LIVE_CON_TITLE
+Pas de connexion à Xbox LIVE
+NO_LIVE_CON_UNAVAILABLE_MSG
+Service Xbox LIVE non disponible.
+NO_STORAGE_SELECTED_MSG
+Vous devez sélectionner un périphérique de stockage pour sauvegarder votre progression.
+NO_STORAGE_SELECTED_TITLE
+Aucun périphérique de stockage
+NO_USER_MSG
+Un profil du joueur doit être connecté.
+NO_USER_TITLE
+Aucun profil de joueur connecté
+OK_BUTTON

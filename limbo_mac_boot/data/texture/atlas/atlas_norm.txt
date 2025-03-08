@@ -1,0 +1,23 @@
+"data/sprites/characters/birds/cage_bird/wing_03.png_a"	45	548	198	280	29	20
+"data/sprites/characters/creatures/creep/head 01.png_a"	1590	381	116	101	38	45
+"data/sprites/characters/insects/insect_01/wing_01.png_a"	883	38	314	340	35	22
+"data/sprites/effects/debris/debris_dust_01.png_a"	294	547	211	218	22	19
+"data/sprites/effects/fire/spark.png_a"	866	428	91	71	18	28
+"data/sprites/effects/light_shadow/blur_cirkel.png_a"	1269	57	245	238	37	41
+"data/sprites/effects/light_shadow/blur_cirkel_02.png_a"	1270	352	180	160	38	16
+"data/sprites/effects/light_shadow/kant.png_a"	1584	48	256	256	32	32
+"data/sprites/effects/light_shadow/lightbeam3.png_a"	620	40	200	400	28	24
+"data/sprites/effects/light_shadow/lightbeam5.png_a"	1334	563	500	122	38	35
+"data/sprites/props/industry/machinery/chain_01.png_a"	186	482	300	28	42	18
+"data/sprites/props/industry/pipes/pipe_05.png_a"	1898	50	12	252	26	34
+"data/sprites/props/nature/stones/piece_01.png_a"	1061	570	85	172	21	42
+"data/sprites/props/nature/trees/trunk/growth_01.png_a"	1004	427	71	73	28	27
+"data/sprites/props/nature/trees/trunk/trunk_03.png_a"	46	44	68	455	30	28
+"data/sprites/props/rope/rope_part_03.png_a"	1215	556	34	200	47	28
+"data/sprites/props/various/box.png_a"	46	878	131	132	30	30
+"data/sprites/shapes/circle/circle_01.png_a"	165	37	406	406	21	21
+"data/sprites/shapes/circle/circle_03.png_a"	559	558	194	195	31	30
+"data/sprites/shapes/circle/circle_corner.png_a"	810	555	203	202	26	27
+"data/sprites/shapes/square/box.png_a"	247	887	114	114	39	39
+"data/sprites/shapes/square/square_round_01.png_a"	418	869	156	149	18	21
+"data/sprites/signs/electricity.png_a"	1143	419	50	89	39	19

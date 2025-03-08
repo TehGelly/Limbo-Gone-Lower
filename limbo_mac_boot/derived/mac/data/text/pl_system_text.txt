@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+(pl)Achievement could not be awarded because the Storage Device containing the active gamer profile is no longer present, inaccessible or full.
+ACHIEVEMENT_FAILED_TITLE
+(pl)Achievement not awarded
+BACK_BUTTON
+Wstecz
+BUYONLINE_BUTTON
+Kup online...
+CANCEL_BUTTON
+Anuluj
+CONFIRM_LOOSE_PROGRESS_MSG
+Utracisz niezapisane postępy. Czy na pewno chcesz wczytać?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Potwierdź wczytywanie
+CONFIRM_OVERWRITE_MSG
+Czy na pewno chcesz zastąpić zapis gry? Poprzedni zapis zostanie utracony!
+CONFIRM_OVERWRITE_TITLE
+Potwierdź zastąpienie
+CONTINUE_WITOUT_SAVE_MSG
+Twoje postępy i ustawienia nie zostaną zapisane.
+CONTINUE_WO_SAVING_BUTTON
+Kontynuuj bez zapisywania
+DEVICE_FULL_MSG
+Na urządzeniu pamięci masowej było za mało miejsca.
+DEVICE_FULL_TITLE
+Urządzenie jest pełne
+DEVICE_REMOVED_MSG
+Urządzenie pamięci masowej zostało odłączone. Podłącz je i wybierz ponownie lub kontynuuj bez zapisywania.
+DEVICE_REMOVED_TITLE
+Odłączono urządzenie
+LICENSE_KEY_ERROR_MSG
+Wprowadzony klucz licencyjny jest nieprawidłowy.
+LICENSE_KEY_ERROR_TITLE
+Błąd klucza licencyjnego
+LOW_SPACE_MSG
+Na dysku twardym jest za mało dostępnego miejsca. Aby utworzyć dane, potrzebne jest co najmniej 100 KB dodatkowego miejsca. Wyjdź z gry i przygotuj potrzebne miejsce.
+NO_BUTTON
+Nie
+NO_LIVE_CON_BUTTON
+(pl)Return
+NO_LIVE_CON_CONNECTION_LOST_MSG
+(pl)Your network connection was lost.
+NO_LIVE_CON_DISCONNECTED_MSG
+(pl)You need to be signed into Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+(pl)You are not currently signed in to Xbox LIVE, so your leaderboard score will not be updated.
+NO_LIVE_CON_NO_NETWORK_MSG
+(pl)You must sign in to Xbox LIVE to view the Leaderboards.
+NO_LIVE_CON_TIMEOUT
+(pl)Connection time out. Unable to load the leaderboards at this time.
+NO_LIVE_CON_TITLE
+(pl)No Xbox LIVE Connection
+NO_LIVE_CON_UNAVAILABLE_MSG
+(pl)The Xbox LIVE service is unavailable.
+NO_STORAGE_SELECTED_MSG
+Aby zapisać postępy w grze, należy wybrać urządzenie pamięci masowej.
+NO_STORAGE_SELECTED_TITLE
+Nie wybrano urządzenia pamięci
+NO_USER_MSG
+Należy zalogować się do profilu gracza.
+NO_USER_TITLE
+Nie zalogowano do profilu gracza
+OK_BUTTON

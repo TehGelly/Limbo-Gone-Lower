@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+No se pudo conceder el logro porque el dispositivo de almacenamiento que contiene el perfil de jugador activo ya no está presente, no es accesible o está lleno.
+ACHIEVEMENT_FAILED_TITLE
+Logro no concedido
+BACK_BUTTON
+Atrás
+BUYONLINE_BUTTON
+Comprar en línea...
+CANCEL_BUTTON
+Cancelar
+CONFIRM_LOOSE_PROGRESS_MSG
+Perderás todo el progreso sin guardar. ¿Seguro que deseas continuar con la carga?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Confirmar carga
+CONFIRM_OVERWRITE_MSG
+¿Realmente deseas sobrescribir el juego guardado? Perderás el juego guardado anterior.
+CONFIRM_OVERWRITE_TITLE
+Confirmar sobrescritura
+CONTINUE_WITOUT_SAVE_MSG
+El progreso y la configuración no se guardarán.
+CONTINUE_WO_SAVING_BUTTON
+Continuar sin guardar
+DEVICE_FULL_MSG
+No había suficiente espacio libre en el dispositivo de almacenamiento.
+DEVICE_FULL_TITLE
+Dispositivo lleno
+DEVICE_REMOVED_MSG
+Dispositivo seleccionado extraído. Insértelo y pruebe o continúe sin guardar.
+DEVICE_REMOVED_TITLE
+Dispositivo extraído
+LICENSE_KEY_ERROR_MSG
+La clave de licencia que has introducido no es válida.
+LICENSE_KEY_ERROR_TITLE
+Error  al comprobar la clave de licencia.
+LOW_SPACE_MSG
+Puede que no haya suficiente espacio disponible en el DD para crear un juego guardado. Para crear datos se requieren al menos 100 KB de espacio. Puedes salir del juego y conseguir el espacio necesario. ¿Deseas salir del juego ahora?
+NO_BUTTON
+No
+NO_LIVE_CON_BUTTON
+Volver
+NO_LIVE_CON_CONNECTION_LOST_MSG
+Se ha perdido la conexión de red.
+NO_LIVE_CON_DISCONNECTED_MSG
+Tienes que iniciar sesión en Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+No has iniciado sesión en Xbox LIVE por lo que no se actualizará tu puntuación en los marcadores.
+NO_LIVE_CON_NO_NETWORK_MSG
+Debes iniciar sesión en Xbox LIVE para ver los marcadores.
+NO_LIVE_CON_TIMEOUT
+Se ha superado el tiempo de espera de la conexión. No se pueden cargar los marcadores en este momento.
+NO_LIVE_CON_TITLE
+No hay conexión con Xbox LIVE.
+NO_LIVE_CON_UNAVAILABLE_MSG
+El servicio Xbox LIVE no está disponible.
+NO_STORAGE_SELECTED_MSG
+Debe seleccionarse un dispositivo de almacenamiento para guardar el progreso del juego.
+NO_STORAGE_SELECTED_TITLE
+Ningún dispositivo seleccionado.
+NO_USER_MSG
+Debe haber un perfil de jugador con sesión iniciada.
+NO_USER_TITLE
+Ningún perfil de jugador.
+OK_BUTTON

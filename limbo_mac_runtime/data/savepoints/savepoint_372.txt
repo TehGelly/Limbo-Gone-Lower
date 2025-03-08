@@ -1,0 +1,6 @@
+boydir = "1.000000"
+boygravity = "0.000000,0.000000"
+boypaused = "false"
+boypos = "969.004150,35.356087"
+savepointnode = "0x04B99D2546956CDA6B82A2B77CF94009.67.3"
+worldgravity = "0.000000,-10.000000"

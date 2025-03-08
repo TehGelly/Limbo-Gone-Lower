@@ -1,0 +1,77 @@
+chapter1 = "data/levels/start/falling_and_pursuing_boys.branch 1"
+
+chapter2 = "data/levels/start/falling_and_pursuing_boys.branch 3"
+
+chapter3 = "data/levels/start/falling_and_pursuing_boys.branch 4"
+
+chapter4 = "data/levels/start/sliding_tree.branch 1"
+
+chapter5 = "data/levels/spiders_nest/sittingspider.branch 1"
+
+chapter6 = "data/levels/spiders_nest/cocoon_1.branch 1"
+
+chapter7 = "data/levels/spiders_nest/cocoon_1.branch 3"
+
+chapter8 = "data/levels/boys_fort/tree_jump.branch 1"
+
+chapter9 = "data/levels/boys_fort/boys_rolling_stones.branch 1"
+
+chapter10 = "data/levels/boys_fort/falling_beartraps.branch 1"
+
+chapter11 = "data/levels/spiders_nest/spider_chase.branch 1"
+
+chapter12 = "data/levels/boys_underground/sleeping_boy.branch 1"
+
+chapter13 = "data/levels/boys_underground/sleeping_boy.branch 2"
+
+chapter14 = "data/levels/boys_underground/hidden_traps.branch 1"
+
+chapter15 = "data/levels/boys_underground/hidden_traps.branch 3"
+
+chapter16 = "data/levels/water_machine/zombie_snail_intro_v2.branch 1"
+
+chapter17 = "data/levels/water_machine/rain_machine.branch 1"
+
+chapter18 = "data/levels/water_machine/sewer_flooding.branch 1"
+
+chapter19 = "data/levels/water_machine/zombie_snail_in_sewer.branch 1"
+
+chapter20 = "data/levels/city/city_start.branch 1"
+
+chapter21 = "data/levels/city/hotel_sign.branch 1"
+
+chapter22 = "data/levels/city/roof_top_action.branch 1"
+
+chapter23 = "data/levels/city/zombiesnailandsawblade.branch 1"
+
+chapter24 = "data/levels/city/crane_and_seesaw.branch 1"
+
+chapter25 = "data/levels/city/over_the_top_of_a_wagon.branch 1"
+
+chapter26 = "data/levels/city/insect_transport2.branch 1"
+
+chapter27 = "data/levels/city/insect_transport2.branch 2"
+
+chapter28 = "data/levels/old_school_underground/rotating_room_intro.branch 1"
+
+chapter29 = "data/levels/old_school_underground/rotating_room_intro.branch 4"
+
+chapter30 = "data/levels/old_school_underground/zombie_and_conveyor.branch 3"
+
+chapter31 = "data/levels/old_school_underground/ladder_wagon.branch 1"
+
+chapter32 = "data/levels/old_school_underground/rotating_dark_room.branch 2"
+
+chapter33 = "data/levels/modern_underground/lasers_shooting_each_other.branch 1"
+
+chapter34 = "data/levels/modern_underground/laser_and_elevator.branch 2"
+
+chapter35 = "data/levels/modern_underground/magnetgravitytiming.branch 1"
+
+chapter36 = "data/levels/modern_underground/cableway.branch 1"
+
+chapter37 = "data/levels/modern_underground/hoteltest.branch 1"
+
+chapter38 = "data/levels/modern_underground/box_from_below.branch 1"
+
+chapter39 = "data/levels/modern_underground/gravity_jump.branch 4"

@@ -1,0 +1,39 @@
+continue_in_background = "false"
+# The editor will continue when another application has focus (normally the editor will pause).
+
+#modalassertions = "fatal"
+modalassertions = "none"
+# Specifies which assertion types will result in a user-prompt. Choose "fatal warning datawarning" will report all.
+
+audio_folder = "data/audio/"
+anim_base_folder = "data/animation/"
+bmp_base_folder = "data/texture/"
+branch_base_folder = "data/levels/"
+scene_base_folder = "data/levels/"
+script_base_folder = "data/scripts/"
+ttf_base_folder = "data/font/"
+# These are the base folders for the different kind of assets.
+
+
+# usermode = 2
+# SET THIS TO THE WORKING SITUATION MOST RELEVANT FOR YOU
+# 0 = developer           (createsavepoints=true, keepsavepoints=false, "savepoints_tmp"-folder
+# 1 = savepoint_generator (createsavepoints=true, keepsavepoints=true,  "savepoints"-folder
+# 2 = enduser/tester      (createsavepoints=false, keepsavepoints=true, "savepoints"-folder
+# Setting createsavepoints or keepsavepoints below will override the usermode settings
+
+# The editor will autoload the scene and play it on start-up.
+#autorun = data/levels/_tests/peter/branch_test/main.scene
+autorun = data/levels/limbo.scene
+
+# select fullscreen on startup on/off
+# fullscreen = true
+
+# resolution of fullscreen mode, if not specified desktop resolution will be used.
+# fullscreenres = 1280,720
+
+standalone_windowsize = 1024,576
+
+menu="true"
+
+clampToVSyncThresshold = 0.0025

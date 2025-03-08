@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+(tr)Achievement could not be awarded because the Storage Device containing the active gamer profile is no longer present, inaccessible or full.
+ACHIEVEMENT_FAILED_TITLE
+(tr)Achievement not awarded
+BACK_BUTTON
+Geri
+BUYONLINE_BUTTON
+Online satın al…
+CANCEL_BUTTON
+İptal Et
+CONFIRM_LOOSE_PROGRESS_MSG
+Kaydedilmemiş tüm ilerlemeleri kaybedeceksin. Yüklemek istediğine emin misin?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Yüklemeyi onayla
+CONFIRM_OVERWRITE_MSG
+Kayıtlı oyunun üstüne yazmak istediğinden emin misin? Önceki verilerin kaybolacaktır!
+CONFIRM_OVERWRITE_TITLE
+Üstüne yazmayı onayla
+CONTINUE_WITOUT_SAVE_MSG
+İlerlemen ve ayarların kaydedilmeyecektir.
+CONTINUE_WO_SAVING_BUTTON
+Kaydetmeden devam et
+DEVICE_FULL_MSG
+Depolama aygıtında yeterli boş alan yoktu.
+DEVICE_FULL_TITLE
+Aygıt dolu
+DEVICE_REMOVED_MSG
+Depolama aygıtı kaldırılmadı. Lütfen tekrar tak ve aygıtı seç ya da kaydetmeden devam et.
+DEVICE_REMOVED_TITLE
+Aygıt kaldırıldı
+LICENSE_KEY_ERROR_MSG
+Girmiş olduğun lisans no geçersiz.
+LICENSE_KEY_ERROR_TITLE
+Lisans no hatası
+LOW_SPACE_MSG
+Sabit disk üzerinde yeterli alan yok. Veri oluşturabilmek için en azından 100 KB'lık daha alan gerekiyor. Oyundan çık ve gerekli alanı aç.
+NO_BUTTON
+Hayır
+NO_LIVE_CON_BUTTON
+(tr)Return
+NO_LIVE_CON_CONNECTION_LOST_MSG
+(tr)Your network connection was lost.
+NO_LIVE_CON_DISCONNECTED_MSG
+(tr)You need to be signed into Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+(tr)You are not currently signed in to Xbox LIVE, so your leaderboard score will not be updated.
+NO_LIVE_CON_NO_NETWORK_MSG
+(tr)You must sign in to Xbox LIVE to view the Leaderboards.
+NO_LIVE_CON_TIMEOUT
+(tr)Connection time out. Unable to load the leaderboards at this time.
+NO_LIVE_CON_TITLE
+(tr)No Xbox LIVE Connection
+NO_LIVE_CON_UNAVAILABLE_MSG
+(tr)The Xbox LIVE service is unavailable.
+NO_STORAGE_SELECTED_MSG
+Oyun ilerlemesini kaydetmek için bir depolama aygıtı seçilmelidir.
+NO_STORAGE_SELECTED_TITLE
+Hiçbir depolama aygıtı seçilmedi
+NO_USER_MSG
+Bir oyuncu profili ile oturum açılmalıdır.
+NO_USER_TITLE
+Giriş yapan oyuncu profili yok
+OK_BUTTON

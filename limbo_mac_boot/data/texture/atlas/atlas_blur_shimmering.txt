@@ -1,0 +1,6 @@
+"data/sprites/props/nature/trees/branch/branch_05.pngblur_a"	809	59	142	297	25	43
+"data/sprites/props/nature/trees/leafs/leaf_bundle_04.pngblur_a"	817	418	125	91	33	18
+"data/sprites/props/nature/trees/trunk/stamme_04.pngblur_a"	608	38	160	531	16	22
+"data/sprites/props/nature/trees/trunk/trunk_14.pngblur_a"	446	52	99	567	46	36
+"data/sprites/props/wires/cable_03.pngblur_a"	33	45	350	581	17	29
+"data/sprites/props/wires/cables_07.pngblur_a"	37	695	725	113	21	39

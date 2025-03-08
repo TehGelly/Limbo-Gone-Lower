@@ -1,0 +1,8 @@
+editor_maximized = "true"
+editor_windowpos = "-4,-4"
+editor_windowsize = "1920,1178"
+#editor_fullscreensize = "1280,720"
+recent_files = "5"
+sound_enabled = "true"
+version_control = "true"
+version_control_precache_lock_status = "true"

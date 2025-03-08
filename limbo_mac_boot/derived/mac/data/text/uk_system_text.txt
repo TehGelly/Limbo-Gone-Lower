@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+Achievement could not be awarded because the Storage Device containing the active gamer profile is no longer present, inaccessible or full.
+ACHIEVEMENT_FAILED_TITLE
+Achievement not awarded
+BACK_BUTTON
+Back
+BUYONLINE_BUTTON
+Buy online...
+CANCEL_BUTTON
+Cancel
+CONFIRM_LOOSE_PROGRESS_MSG
+You will lose any unsaved progress.  Are you sure you want to load?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Confirm load
+CONFIRM_OVERWRITE_MSG
+Do you really want to overwrite your saved game? Your previous save will be lost!
+CONFIRM_OVERWRITE_TITLE
+Confirm overwrite
+CONTINUE_WITOUT_SAVE_MSG
+Your progress and settings will not be saved.
+CONTINUE_WO_SAVING_BUTTON
+Continue without saving
+DEVICE_FULL_MSG
+There was not enough free space on the storage device.
+DEVICE_FULL_TITLE
+Device full
+DEVICE_REMOVED_MSG
+The storage device was removed. Please reinsert and reselect the device or continue without saving.
+DEVICE_REMOVED_TITLE
+Device removed
+LICENSE_KEY_ERROR_MSG
+The license key you have entered is invalid.
+LICENSE_KEY_ERROR_TITLE
+License key error
+LOW_SPACE_MSG
+There is not enough available space in the HDD. To create data, at least 100 KB more space is required. Exit the game and obtain the necessary space.
+NO_BUTTON
+No
+NO_LIVE_CON_BUTTON
+Return
+NO_LIVE_CON_CONNECTION_LOST_MSG
+Your network connection was lost.
+NO_LIVE_CON_DISCONNECTED_MSG
+You need to be signed into Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+You are not currently signed in to Xbox LIVE, so your leaderboard score will not be updated.
+NO_LIVE_CON_NO_NETWORK_MSG
+You must sign in to Xbox LIVE to view the Leaderboards.
+NO_LIVE_CON_TIMEOUT
+Connection time out. Unable to load the leaderboards at this time.
+NO_LIVE_CON_TITLE
+No Xbox LIVE Connection
+NO_LIVE_CON_UNAVAILABLE_MSG
+The Xbox LIVE service is unavailable.
+NO_STORAGE_SELECTED_MSG
+A storage device must be selected in order to save game progress.
+NO_STORAGE_SELECTED_TITLE
+No storage devices selected
+NO_USER_MSG
+A gamer profile must be signed in.
+NO_USER_TITLE
+No gamer profile signed in
+OK_BUTTON

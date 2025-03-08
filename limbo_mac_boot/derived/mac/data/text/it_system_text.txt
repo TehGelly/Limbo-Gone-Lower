@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+Non è possibile salvare i risultati poiché la periferica di memorizzazione contenente il profilo giocatore attivo non è più presente, è inaccessibile o è piena.
+ACHIEVEMENT_FAILED_TITLE
+Risultati non assegnati
+BACK_BUTTON
+Indietro
+BUYONLINE_BUTTON
+Acquista online...
+CANCEL_BUTTON
+Annulla
+CONFIRM_LOOSE_PROGRESS_MSG
+Qualsiasi progresso non salvato andrà perduto. Sei sicuro di volere caricare?
+CONFIRM_LOOSE_PROGRESS_TITLE
+Conferma caricamento
+CONFIRM_OVERWRITE_MSG
+Vuoi davvero sovrascrivere il gioco salvato? Il salvataggio precedente andrà perduto.
+CONFIRM_OVERWRITE_TITLE
+Conferma sovrascrittura
+CONTINUE_WITOUT_SAVE_MSG
+I progressi e le impostazioni non saranno salvati.
+CONTINUE_WO_SAVING_BUTTON
+Continua senza salvare.
+DEVICE_FULL_MSG
+Non c'era sufficiente spazio libero sulla periferica di memorizzazione.
+DEVICE_FULL_TITLE
+Periferica piena
+DEVICE_REMOVED_MSG
+La periferica di memorizzazione è stata rimossa. Reinserire e selezionare di nuovo la periferica o continuare senza salvare.
+DEVICE_REMOVED_TITLE
+Periferica rimossa
+LICENSE_KEY_ERROR_MSG
+Il codice licenza inserito non è valido.
+LICENSE_KEY_ERROR_TITLE
+Errore codice licenza
+LOW_SPACE_MSG
+Nel disco rigido può non esserci spazio sufficiente disponibile per il salvataggio del gioco. Per creare dei dati sono necessari almeno 100KB di spazio. È possibile uscire dal gioco e ottenere lo spazio necessario. Uscire dal gioco ora?
+NO_BUTTON
+No
+NO_LIVE_CON_BUTTON
+Ritorna
+NO_LIVE_CON_CONNECTION_LOST_MSG
+La connessione è andata perduta.
+NO_LIVE_CON_DISCONNECTED_MSG
+È necessario essere connessi a Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+Non sei collegato a Xbox LIVE, pertanto non è possibile aggiornare il punteggio della classifica.
+NO_LIVE_CON_NO_NETWORK_MSG
+È necessario connettersi a Xbox LIVE per visualizzare le classifiche.
+NO_LIVE_CON_TIMEOUT
+Il tempo di connessione è scaduto. Non è possibile caricare le classifiche.
+NO_LIVE_CON_TITLE
+Nessuna connessione a Xbox LIVE
+NO_LIVE_CON_UNAVAILABLE_MSG
+Il servizio Xbox LIVE non è disponibile.
+NO_STORAGE_SELECTED_MSG
+Per salvare il progresso di gioco è necessario selezionare una periferica di memorizzazione.
+NO_STORAGE_SELECTED_TITLE
+Nessuna periferica selezionata
+NO_USER_MSG
+È necessario connettere un profilo giocatore.
+NO_USER_TITLE
+Nessun profilo giocatore
+OK_BUTTON

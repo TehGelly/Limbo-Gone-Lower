@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+(szh)Achievement could not be awarded because the Storage Device containing the active gamer profile is no longer present, inaccessible or full.
+ACHIEVEMENT_FAILED_TITLE
+(szh)Achievement not awarded
+BACK_BUTTON
+返回
+BUYONLINE_BUTTON
+在线购买...
+CANCEL_BUTTON
+取消
+CONFIRM_LOOSE_PROGRESS_MSG
+您将丢失所有未保存的进程。是否确定要加载？
+CONFIRM_LOOSE_PROGRESS_TITLE
+确认加载
+CONFIRM_OVERWRITE_MSG
+是否确实要覆盖保存的游戏？以前保存的内容将丢失！
+CONFIRM_OVERWRITE_TITLE
+确认覆盖
+CONTINUE_WITOUT_SAVE_MSG
+您的进程和设置将无法保存。
+CONTINUE_WO_SAVING_BUTTON
+继续但不保存
+DEVICE_FULL_MSG
+存储设备上的可用空间不足
+DEVICE_FULL_TITLE
+设备已满
+DEVICE_REMOVED_MSG
+存储设备已移除。请重新插入并重新选择设备或不保存继续。
+DEVICE_REMOVED_TITLE
+设备已移除
+LICENSE_KEY_ERROR_MSG
+您输入的许可密钥无效。
+LICENSE_KEY_ERROR_TITLE
+许可密钥错误
+LOW_SPACE_MSG
+硬盘上的可用空间不足。要创建数据，至少再需要 100 KB 的空间。退出游戏并获得所需空间。
+NO_BUTTON
+否
+NO_LIVE_CON_BUTTON
+(szh)Return
+NO_LIVE_CON_CONNECTION_LOST_MSG
+(szh)Your network connection was lost.
+NO_LIVE_CON_DISCONNECTED_MSG
+(szh)You need to be signed into Xbox LIVE.
+NO_LIVE_CON_LEADERBOARD_MSG
+(szh)You are not currently signed in to Xbox LIVE, so your leaderboard score will not be updated.
+NO_LIVE_CON_NO_NETWORK_MSG
+(szh)You must sign in to Xbox LIVE to view the Leaderboards.
+NO_LIVE_CON_TIMEOUT
+(szh)Connection time out. Unable to load the leaderboards at this time.
+NO_LIVE_CON_TITLE
+(szh)No Xbox LIVE Connection
+NO_LIVE_CON_UNAVAILABLE_MSG
+(szh)The Xbox LIVE service is unavailable.
+NO_STORAGE_SELECTED_MSG
+必须选择存储设备才可保存游戏进程。
+NO_STORAGE_SELECTED_TITLE
+未选择存储设备
+NO_USER_MSG
+必须登录玩家档案。
+NO_USER_TITLE
+玩家档案未登录
+OK_BUTTON

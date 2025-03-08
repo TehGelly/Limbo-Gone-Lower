@@ -1,0 +1,63 @@
+ACHIEVEMENT_FAILED_MSG
+使用中のゲーマー プロフィールが含まれるストレージ機器が見つからないか、アクセスできない、空き容量がないといういずれかのエラーが発生したため、実績を保存することができません
+ACHIEVEMENT_FAILED_TITLE
+実績を解除できません
+BACK_BUTTON
+戻る
+BUYONLINE_BUTTON
+オンラインで購入...
+CANCEL_BUTTON
+キャンセル
+CONFIRM_LOOSE_PROGRESS_MSG
+保存されていない進行状況は失われます。セーブ データを読み込んでよろしいですか?
+CONFIRM_LOOSE_PROGRESS_TITLE
+読み込みを許可
+CONFIRM_OVERWRITE_MSG
+セーブ データを上書きしてよろしいですか? 保存されているセーブ データは失われます
+CONFIRM_OVERWRITE_TITLE
+上書きを許可
+CONTINUE_WITOUT_SAVE_MSG
+進行状況と設定を保存できません
+CONTINUE_WO_SAVING_BUTTON
+保存せずに続ける
+DEVICE_FULL_MSG
+ストレージ機器に十分な空き容量がありません
+DEVICE_FULL_TITLE
+ストレージ機器の空き容量が不足
+DEVICE_REMOVED_MSG
+ストレージ機器が取り外されました。ストレージ機器をセットし直してもう一度選択するか、または保存せずに続けます
+DEVICE_REMOVED_TITLE
+ストレージ機器エラー
+LICENSE_KEY_ERROR_MSG
+入力されたライセンスキーは無効です。
+LICENSE_KEY_ERROR_TITLE
+ライセンスキーのエラー
+LOW_SPACE_MSG
+セーブ データを作成するために必要なハードディスクの容量が不足しています。セーブ データを作成するには、少なくとも 100 KB の空き容量が必要です。ゲームを終了して、必要な空き容量を作成しますか? 
+NO_BUTTON
+いいえ
+NO_LIVE_CON_BUTTON
+戻る
+NO_LIVE_CON_CONNECTION_LOST_MSG
+ネットワークとの接続が切れました
+NO_LIVE_CON_DISCONNECTED_MSG
+Xbox LIVE にサインインしてください
+NO_LIVE_CON_LEADERBOARD_MSG
+Xbox LIVE にサインインしていないため、ランキングを送信できません
+NO_LIVE_CON_NO_NETWORK_MSG
+ランキングを見るには Xbox LIVE にサインインしてください
+NO_LIVE_CON_TIMEOUT
+ネットワークとの接続がタイムアウトしたため、ランキングを見ることができません
+NO_LIVE_CON_TITLE
+Xbox LIVE 接続エラー
+NO_LIVE_CON_UNAVAILABLE_MSG
+Xbox LIVE の機能をご利用いただけません
+NO_STORAGE_SELECTED_MSG
+ゲームの進行状況を保存するには、ストレージ機器を選択してください
+NO_STORAGE_SELECTED_TITLE
+ストレージ機器が選択されていません
+NO_USER_MSG
+ゲーマー プロフィールにサインインしてください
+NO_USER_TITLE
+サインインしていません
+OK_BUTTON

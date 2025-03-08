@@ -1,0 +1,5 @@
+"data/sprites/props/industry/machinery/gear_whell.pngblur_a"	35	419	281	281	19	19
+"data/sprites/props/industry/machinery/gear_whell_02.pngblur_a"	354	418	284	284	18	18
+"data/sprites/props/industry/machinery/gear_whell_03.pngblur_a"	47	47	321	321	31	31
+"data/sprites/props/industry/machinery/gear_whell_04.pngblur_a"	431	47	321	321	31	31
+"data/sprites/props/wires/cables_03.pngblur_a"	685	436	197	120	29	36
