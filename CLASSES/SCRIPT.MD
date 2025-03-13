@@ -37,9 +37,9 @@ Lowercase arguments are on the stack
 27 OP_27 A    : SIMPLER VERSION OF OP_21?  
 28 OP_28 a    : SO MUCH. SO MUCH. POSSIBLY CALLING THE TOP OF ANOTHER SCRIPT'S STACK????  
 29 OP_29      : POPS FROM "THE CALL STACK". PROBABLY CALLS IT, TOO  
-30 HLT\
-31 HLT\
-32 HLT\
+30 HLT  
+31 HLT  
+32 HLT  
 
 ## DATATYPES AND DATACALLS
 
@@ -60,3 +60,8 @@ OPERATORS = {"bool"    :["&&","||","^^","==","!=","!"],
              "vector2f":["*",".","/","+","-","^","==","!=","-1*","GetLength","GetNormalized"],  
              "vector3f":["*",".","/","+","-1*","-","^","==","!=","GetLength","GetSqrLength","GetNormalized"],  
              "quaterni":["*q","*f","==","!=","!","ToEuler"]}  
+			 
+## GLOBAL CALLS
+
+In GLOBALS.txt is listed 204 global functions that were retrieved from memory and cross-referenced to symbols in the binary.
+The symbol names are not fully descriptive and are also not the names used in the script compilation process ("Proxy" is removed from the human readable names, for example).
